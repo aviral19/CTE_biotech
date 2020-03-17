@@ -1,1 +1,1 @@
-from Bio import SeqIO
+import Bio
